@@ -1,4 +1,11 @@
-﻿# SIGRA – Sistema Inteligente de Gestão de Riscos e Alertas  
+###Irana Pereira – RM 98593
+
+###Lucas Vinicius Candido Silva – RM 98480
+
+###Mariana A Melo – RM 98121
+ 
+ 
+ # SIGRA – Sistema Inteligente de Gestão de Riscos e Alertas  
 ### Módulo C# | Global Solution 2025
 
 Este projeto é parte da solução interdisciplinar da **Global Solution 2025**, focado na disciplina **C# Software Development** do curso de Engenharia de Software (3º ano – FIAP).
