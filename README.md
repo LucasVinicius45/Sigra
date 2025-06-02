@@ -47,4 +47,4 @@ O sistema ajuda operadores de Defesa Civil, equipes de TI ou gestores públicos 
 ## Como Executar
 
 1. Clone o repositório:
-   git clone[ https://github.com/seuusuario/sigra-csharp.git](https://github.com/LucasVinicius45/Sigra/tree/main)
+   git clone[[ https://github.com/seuusuario/sigra-csharp.git](https://github.com/LucasVinicius45/Sigra/tree/main)](https://github.com/LucasVinicius45/Sigra.git)
