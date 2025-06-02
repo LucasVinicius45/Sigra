@@ -12,3 +12,4 @@ C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug
 C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.pdb
 C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.genruntimeconfig.cache
 C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\ref\Sigra.dll
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.sourcelink.json

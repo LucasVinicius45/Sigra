@@ -1,21 +1,11 @@
-﻿using System;
-
-namespace Sigra.Model
+﻿public class EventLog : Event
 {
-    public class EventLog
+    public EventLog(string description) : base(description)
     {
-        public DateTime Timestamp { get; set; }
-        public string Description { get; set; }
+    }
 
-        public EventLog(string description)
-        {
-            Timestamp = DateTime.Now;
-            Description = description;
-        }
-
-        public string GetEntry()
-        {
-            return $"[{Timestamp:HH:mm:ss}] {Description}";
-        }
+    public override string GetSummary()
+    {
+        return $"[LOG {Timestamp:HH:mm:ss}] {Description}";
     }
 }
