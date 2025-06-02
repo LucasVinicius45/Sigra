@@ -3,9 +3,9 @@
 
 ### Irana Pereira – RM 98593
 
-### Lucas Vinicius Candido Silva – RM 98480
+### Lucas Vinicius – RM 98480
 
-### Mariana A Melo – RM 98121
+### Mariana Melo – RM 98121
  
  ---
  # SIGRA – Sistema Inteligente de Gestão de Riscos e Alertas  
