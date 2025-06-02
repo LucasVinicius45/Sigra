@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AnjNo\\OneDrive\\\u00C1rea de Trabalho\\ArquivosLucas\\C#\\Sigra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C18CD7-4711-44BD-BB8A-FBC68E89BB21}|Sigra\\Sigra.csproj|c:\\users\\anjno\\onedrive\\\u00E1rea de trabalho\\arquivoslucas\\c#\\sigra\\sigra\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{51C18CD7-4711-44BD-BB8A-FBC68E89BB21}|Sigra\\Sigra.csproj|solutionrelative:sigra\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C18CD7-4711-44BD-BB8A-FBC68E89BB21}|Sigra\\Sigra.csproj|c:\\users\\anjno\\onedrive\\\u00E1rea de trabalho\\arquivoslucas\\c#\\sigra\\sigra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C18CD7-4711-44BD-BB8A-FBC68E89BB21}|Sigra\\Sigra.csproj|solutionrelative:sigra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AnjNo\\OneDrive\\\u00C1rea de Trabalho\\ArquivosLucas\\C#\\Sigra\\Sigra\\Program.cs",
+              "RelativeDocumentMoniker": "Sigra\\Program.cs",
+              "ToolTip": "C:\\Users\\AnjNo\\OneDrive\\\u00C1rea de Trabalho\\ArquivosLucas\\C#\\Sigra\\Sigra\\Program.cs",
+              "RelativeToolTip": "Sigra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:10:49.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\AnjNo\\OneDrive\\\u00C1rea de Trabalho\\ArquivosLucas\\C#\\Sigra\\Sigra\\README.md",
+              "RelativeDocumentMoniker": "Sigra\\README.md",
+              "ToolTip": "C:\\Users\\AnjNo\\OneDrive\\\u00C1rea de Trabalho\\ArquivosLucas\\C#\\Sigra\\Sigra\\README.md",
+              "RelativeToolTip": "Sigra\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-02T07:08:00.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\bin\Debug\net8.0\Sigra.exe
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\bin\Debug\net8.0\Sigra.deps.json
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\bin\Debug\net8.0\Sigra.runtimeconfig.json
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\bin\Debug\net8.0\Sigra.dll
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\bin\Debug\net8.0\Sigra.pdb
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.AssemblyInfoInputs.cache
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.AssemblyInfo.cs
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.csproj.CoreCompileInputs.cache
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.dll
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\refint\Sigra.dll
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.pdb
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\Sigra.genruntimeconfig.cache
+C:\Users\AnjNo\OneDrive\Área de Trabalho\ArquivosLucas\C#\Sigra\Sigra\obj\Debug\net8.0\ref\Sigra.dll
